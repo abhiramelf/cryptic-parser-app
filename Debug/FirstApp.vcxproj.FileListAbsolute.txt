@@ -1,0 +1,2 @@
+C:\Learn\C++\FirstApp\Debug\FirstApp.exe
+C:\Learn\C++\FirstApp\Debug\FirstApp.pdb
